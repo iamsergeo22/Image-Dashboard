@@ -23,7 +23,7 @@
       <div class="mt-8 grid gap-6 grid-cols-1 sm:grid-cols-2 lg
       :grid-cols-3 xl:grid-cols-4">
       <div class="bg-black rounded-lg hover:shadow-2xl">
-        <img src="https://source.unsplash.com/random" alt="Random image" class="rounded-t-lg">
+        <img src="../assets/img/iloveimg-resized/bl.jpg" alt="Random image" class="rounded-t-lg">
         <div class="p-4">
           <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
           <p class="text-gray-400 text-sm mb-4">By John Doe</p>
@@ -31,7 +31,7 @@
         </div>
       </div>
       <div class="bg-black rounded-lg hover:shadow-2xl">
-        <img src="https://source.unsplash.com/random" alt="Random image" class="rounded-t-lg">
+        <img src="../assets/img/iloveimg-resized/bn.jpg" alt="Random image" class="rounded-t-lg">
         <div class="p-4">
           <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
           <p class="text-gray-400 text-sm mb-4">By John Doe</p>
@@ -39,7 +39,7 @@
         </div>
       </div>
       <div class="bg-black rounded-lg hover:shadow-2xl">
-        <img src="https://source.unsplash.com/random" alt="Random image" class="rounded-t-lg">
+        <img src="../assets/img/iloveimg-resized/bv.jpg" alt="Random image" class="rounded-t-lg">
         <div class="p-4">
           <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
           <p class="text-gray-400 text-sm mb-4">By John Doe</p>
@@ -47,7 +47,7 @@
         </div>
       </div>
       <div class="bg-black rounded-lg hover:shadow-2xl">
-        <img src="https://source.unsplash.com/random" alt="Random image" class="rounded-t-lg">
+        <img src="../assets/img/iloveimg-resized/lk.jpg" alt="Random image" class="rounded-t-lg">
         <div class="p-4">
           <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
           <p class="text-gray-400 text-sm mb-4">By John Doe</p>
@@ -56,12 +56,10 @@
       </div>
     </div>
 
-
-
   <div class="mt-8 grid gap-6 grid-cols-1 sm:grid-cols-2 lg
       :grid-cols-3 xl:grid-cols-4">
       <div class="bg-black rounded-lg hover:shadow-2xl">
-        <img src="https://source.unsplash.com/random" alt="Random image" class="rounded-t-lg">
+        <img src="../assets/img/iloveimg-resized/ly.jpg" alt="Random image" class="rounded-t-lg">
         <div class="p-4">
           <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
           <p class="text-gray-400 text-sm mb-4">By John Doe</p>
@@ -69,7 +67,7 @@
         </div>
       </div>
       <div class="bg-black rounded-lg hover:shadow-2xl">
-        <img src="https://source.unsplash.com/random" alt="Random image" class="rounded-t-lg">
+        <img src="../assets/img/iloveimg-resized/vb.jpg" alt="Random image" class="rounded-t-lg">
         <div class="p-4">
           <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
           <p class="text-gray-400 text-sm mb-4">By John Doe</p>
@@ -77,7 +75,7 @@
         </div>
       </div>
       <div class="bg-black rounded-lg hover:shadow-2xl">
-        <img src="https://source.unsplash.com/random" alt="Random image" class="rounded-t-lg">
+        <img src="../assets/img/iloveimg-resized/xc.jpg" alt="Random image" class="rounded-t-lg">
         <div class="p-4">
           <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
           <p class="text-gray-400 text-sm mb-4">By John Doe</p>
@@ -85,13 +83,78 @@
         </div>
       </div>
       <div class="bg-black rounded-lg hover:shadow-2xl">
-        <img src="https://source.unsplash.com/random" alt="Random image" class="rounded-t-lg">
+        <img src="../assets/Header2.png" alt="Random image" class="rounded-t-lg">
         <div class="p-4">
           <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
           <p class="text-gray-400 text-sm mb-4">By John Doe</p>
           <button class="bg-white text-black py-2 px-4 rounded">Download</button>
         </div>
       </div>
+
+      <div class="bg-black rounded-lg hover:shadow-2xl">
+        <img src="../assets/Header3.png" alt="Random image" class="rounded-t-lg">
+        <div class="p-4">
+          <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
+          <p class="text-gray-400 text-sm mb-4">By John Doe</p>
+          <button class="bg-white text-black py-2 px-4 rounded">Download</button>
+        </div>
+      </div>
+
+      <div class="bg-black rounded-lg hover:shadow-2xl">
+        <img src="../assets/Header4.png" alt="Random image" class="rounded-t-lg">
+        <div class="p-4">
+          <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
+          <p class="text-gray-400 text-sm mb-4">By John Doe</p>
+          <button class="bg-white text-black py-2 px-4 rounded">Download</button>
+        </div>
+      </div>
+
+      <div class="bg-black rounded-lg hover:shadow-2xl">
+        <img src="../assets/Header1.png" alt="Random image" class="rounded-t-lg">
+        <div class="p-4">
+          <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
+          <p class="text-gray-400 text-sm mb-4">By John Doe</p>
+          <button class="bg-white text-black py-2 px-4 rounded">Download</button>
+        </div>
+      </div>
+
+
+      <div class="bg-black rounded-lg hover:shadow-2xl">
+        <img src="../assets/iPhone.png" alt="Random image" class="rounded-t-lg">
+        <div class="p-4">
+          <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
+          <p class="text-gray-400 text-sm mb-4">By John Doe</p>
+          <button class="bg-white text-black py-2 px-4 rounded">Download</button>
+        </div>
+      </div>
+
+      <div class="bg-black rounded-lg hover:shadow-2xl">
+        <img src="../assets/iPhone2.png" alt="Random image" class="rounded-t-lg">
+        <div class="p-4">
+          <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
+          <p class="text-gray-400 text-sm mb-4">By John Doe</p>
+          <button class="bg-white text-black py-2 px-4 rounded">Download</button>
+        </div>
+      </div>
+
+      <div class="bg-black rounded-lg hover:shadow-2xl">
+        <img src="../assets/iPhone3.png" alt="Random image" class="rounded-t-lg">
+        <div class="p-4">
+          <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
+          <p class="text-gray-400 text-sm mb-4">By John Doe</p>
+          <button class="bg-white text-black py-2 px-4 rounded">Download</button>
+        </div>
+      </div>
+
+      <div class="bg-black rounded-lg hover:shadow-2xl">
+        <img src="../assets/iPhone4.png" alt="Random image" class="rounded-t-lg">
+        <div class="p-4">
+          <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
+          <p class="text-gray-400 text-sm mb-4">By John Doe</p>
+          <button class="bg-white text-black py-2 px-4 rounded">Download</button>
+        </div>
+      </div>
+      
     </div>
 
 
