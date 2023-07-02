@@ -154,7 +154,113 @@
           <button class="bg-white text-black py-2 px-4 rounded">Download</button>
         </div>
       </div>
+
+      <div class="bg-black rounded-lg hover:shadow-2xl">
+        <img src="../assets/img/IMG_0713.jpg" alt="Random image" class="rounded-t-lg">
+        <div class="p-4">
+          <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
+          <p class="text-gray-400 text-sm mb-4">By John Doe</p>
+          <button class="bg-white text-black py-2 px-4 rounded">Download</button>
+        </div>
+      </div>
+
+      <div class="bg-black rounded-lg hover:shadow-2xl">
+        <img src="../assets/img/back1.JPG" alt="Random image" class="rounded-t-lg">
+        <div class="p-4">
+          <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
+          <p class="text-gray-400 text-sm mb-4">By John Doe</p>
+          <button class="bg-white text-black py-2 px-4 rounded">Download</button>
+        </div>
+      </div>
+
+      <div class="bg-black rounded-lg hover:shadow-2xl">
+        <img src="../assets/img/back2.JPG" alt="Random image" class="rounded-t-lg">
+        <div class="p-4">
+          <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
+          <p class="text-gray-400 text-sm mb-4">By John Doe</p>
+          <button class="bg-white text-black py-2 px-4 rounded">Download</button>
+        </div>
+      </div>
       
+      <div class="bg-black rounded-lg hover:shadow-2xl">
+        <img src="../assets/img/back3.jpg" alt="Random image" class="rounded-t-lg">
+        <div class="p-4">
+          <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
+          <p class="text-gray-400 text-sm mb-4">By John Doe</p>
+          <button class="bg-white text-black py-2 px-4 rounded">Download</button>
+        </div>
+      </div>
+
+      <div class="bg-black rounded-lg hover:shadow-2xl">
+        <img src="../assets/img/back4.jpg" alt="Random image" class="rounded-t-lg">
+        <div class="p-4">
+          <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
+          <p class="text-gray-400 text-sm mb-4">By John Doe</p>
+          <button class="bg-white text-black py-2 px-4 rounded">Download</button>
+        </div>
+      </div>
+      <div class="bg-black rounded-lg hover:shadow-2xl">
+        <img src="../assets/img/back5.jpg" alt="Random image" class="rounded-t-lg">
+        <div class="p-4">
+          <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
+          <p class="text-gray-400 text-sm mb-4">By John Doe</p>
+          <button class="bg-white text-black py-2 px-4 rounded">Download</button>
+        </div>
+      </div>
+
+
+      <div class="bg-black rounded-lg hover:shadow-2xl">
+        <img src="../assets/img/Jumba1.jpg" alt="Random image" class="rounded-t-lg">
+        <div class="p-4">
+          <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
+          <p class="text-gray-400 text-sm mb-4">By John Doe</p>
+          <button class="bg-white text-black py-2 px-4 rounded">Download</button>
+        </div>
+      </div>
+
+      <div class="bg-black rounded-lg hover:shadow-2xl">
+        <img src="../assets/img/jumba2.jpg" alt="Random image" class="rounded-t-lg">
+        <div class="p-4">
+          <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
+          <p class="text-gray-400 text-sm mb-4">By John Doe</p>
+          <button class="bg-white text-black py-2 px-4 rounded">Download</button>
+        </div>
+      </div>
+
+      <div class="bg-black rounded-lg hover:shadow-2xl">
+        <img src="../assets/img/jumba3.jpg" alt="Random image" class="rounded-t-lg">
+        <div class="p-4">
+          <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
+          <p class="text-gray-400 text-sm mb-4">By John Doe</p>
+          <button class="bg-white text-black py-2 px-4 rounded">Download</button>
+        </div>
+      </div>
+
+      <div class="bg-black rounded-lg hover:shadow-2xl">
+        <img src="../assets/img/jumba4.jpg" alt="Random image" class="rounded-t-lg">
+        <div class="p-4">
+          <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
+          <p class="text-gray-400 text-sm mb-4">By John Doe</p>
+          <button class="bg-white text-black py-2 px-4 rounded">Download</button>
+        </div>
+      </div>
+
+      <div class="bg-black rounded-lg hover:shadow-2xl">
+        <img src="../assets/img/jumba5.jpg" alt="Random image" class="rounded-t-lg">
+        <div class="p-4">
+          <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
+          <p class="text-gray-400 text-sm mb-4">By John Doe</p>
+          <button class="bg-white text-black py-2 px-4 rounded">Download</button>
+        </div>
+      </div>
+      <div class="bg-black rounded-lg hover:shadow-2xl">
+        <img src="../assets/img/jumba6.jpg" alt="Random image" class="rounded-t-lg">
+        <div class="p-4">
+          <h2 class="text-white font-bold text-lg mb-2">Image Title</h2>
+          <p class="text-gray-400 text-sm mb-4">By John Doe</p>
+          <button class="bg-white text-black py-2 px-4 rounded">Download</button>
+        </div>
+      </div>
     </div>
 
 

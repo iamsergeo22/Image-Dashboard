@@ -1660,7 +1660,7 @@ if (false) {}
 
 
 
-const _35c1b1d7 = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 1).then(__webpack_require__.bind(null, 45))); // TODO: remove in Nuxt 3
+const _35c1b1d7 = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 1).then(__webpack_require__.bind(null, 57))); // TODO: remove in Nuxt 3
 
 
 const emptyFn = () => {};
